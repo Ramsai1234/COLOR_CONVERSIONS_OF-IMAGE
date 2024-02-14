@@ -47,7 +47,8 @@ cv2.imshow('ramsai',colorImage)
 cv2.waitKey(0)
 
 ```
-![image](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/6f17e8ca-5758-4cc5-b09a-b13587342706)
+![Screenshot 2024-02-14 182534](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/40d5302e-9f73-40f6-afcb-0d3011e86aa0)
+
 
 
 
@@ -148,6 +149,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+![Screenshot 2024-02-14 184934](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/a6320cf3-2911-441e-801e-c8fe5ae8a84f)
 
 
 ### viii) RGB and BGR to YCrCb
@@ -167,6 +169,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+![Screenshot 2024-02-14 202655](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/0396977b-b0ae-4ef5-bab7-9fb4e648a538)
 
 
 ### ix) Split and merge RGB Image
@@ -190,6 +193,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+![image](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/abe2804f-7202-48a8-89c3-8a2d4815bcad)
+
 
 ### x) Split and merge HSV Image
 ```
@@ -211,6 +216,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+![image](https://github.com/Ramsai1234/COLOR_CONVERSIONS_OF-IMAGE/assets/94269989/da9a834c-864a-4f04-a919-de27a5485b2d)
 
 
 
